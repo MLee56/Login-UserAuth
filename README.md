@@ -110,3 +110,6 @@ The token format is `{username}-token`. Store this token and send it in the `Aut
 1. Install dependencies: `npm install`
 2. Run the service: `npm start`
 3. Service runs at `http://localhost:4000`
+
+# UML Diagram
+![Auth Sequence Diagram](Auth-Operations_-_Page_1.png)
